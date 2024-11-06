@@ -1,0 +1,124 @@
+{
+    "worhin": [
+        {
+            "word": "puzzle",
+            "hint": "A game or problem that tests ingenuity."
+        },
+        {
+            "word": "kangaroo",
+            "hint": "An Australian animal that hops."
+        },
+        {
+            "word": "astronomy",
+            "hint": "The study of celestial objects and the universe."
+        },
+        {
+            "word": "chocolate",
+            "hint": "A sweet treat made from cocoa beans."
+        },
+        {
+            "word": "volcano",
+            "hint": "A mountain that erupts with lava."
+        },
+        {
+            "word": "python",
+            "hint": "A type of programming language or a snake."
+        },
+        {
+            "word": "library",
+            "hint": "A place where you borrow books."
+        },
+        {
+            "word": "airplane",
+            "hint": "A vehicle that flies in the sky."
+        },
+        {
+            "word": "horizon",
+            "hint": "The line where the sky meets the earth."
+        },
+        {
+            "word": "dinosaur",
+            "hint": "An extinct reptile that lived millions of years ago."
+        },
+        {
+            "word": "keyboard",
+            "hint": "A device used to input characters into a computer."
+        },
+        {
+            "word": "internet",
+            "hint": "A global network of connected computers."
+        },
+        {
+            "word": "sandcastle",
+            "hint": "A structure made of sand, often built on the beach."
+        },
+        {
+            "word": "microscope",
+            "hint": "A device used to see tiny objects."
+        },
+        {
+            "word": "butterfly",
+            "hint": "An insect with colorful wings that goes through metamorphosis."
+        },
+        {
+            "word": "ocean",
+            "hint": "The vast body of saltwater covering most of the Earth."
+        },
+        {
+            "word": "bicycle",
+            "hint": "A vehicle with two wheels, powered by pedaling."
+        },
+        {
+            "word": "giraffe",
+            "hint": "The tallest land animal with a long neck."
+        },
+        {
+            "word": "mountain",
+            "hint": "A large natural elevation of the earth's surface."
+        },
+        {
+            "word": "island",
+            "hint": "A piece of land surrounded by water."
+        },
+        {
+            "word": "camera",
+            "hint": "A device used to capture photographs."
+        },
+        {
+            "word": "desert",
+            "hint": "A hot, dry region with little rainfall."
+        },
+        {
+            "word": "robot",
+            "hint": "A machine that can be programmed to perform tasks."
+        },
+        {
+            "word": "glacier",
+            "hint": "A large, slow-moving mass of ice."
+        },
+        {
+            "word": "jellyfish",
+            "hint": "A sea creature with a soft, translucent body and tentacles."
+        },
+        {
+            "word": "rainforest",
+            "hint": "A dense, tropical forest with heavy rainfall."
+        },
+        {
+            "word": "meteor",
+            "hint": "A space rock that burns up upon entering Earth's atmosphere."
+        },
+        {
+            "word": "octopus",
+            "hint": "A sea creature with eight arms and known for its intelligence."
+        },
+        {
+            "word": "parachute",
+            "hint": "A device that slows descent from high altitudes."
+        },
+        {
+            "word": "comet",
+            "hint": "A small celestial body with a bright tail, seen passing through space."
+        }
+    ]
+}
